@@ -1,16 +1,25 @@
-### Hi there 👋
+<!-- Banner Section -->
 
-<!--
-**JavianTheGreek/javianthegreek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](./image/Github-Banner.jpg)
 
-Here are some ideas to get you started:
+<!-- Intro -->
+<h1 align="center">Wassup! I love to discover new and unique stuff :computer:</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- -->
+
+<br />
+
+<p align="center">
+  My skill set and thirst for learning convey a lot about me. My interest in frontend development has grown as I have attended university. I've been learning front-end   web programming for over two years by developing projects and researching best practices. I've created projects to demonstrate my front-end abilities.
+</p>
+
+<p align="center">
+  During my time at university, I also wrote projects in C/C++, Java (OPP), <br /> Database Design (SQL), and Web Development (Html, Css, Javascript).
+</p>
+
+<br />
+
+##
+
+- 
+
