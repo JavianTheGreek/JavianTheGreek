@@ -10,11 +10,11 @@
 <br />
 
 <p align="center">
-  My skill set and thirst for learning convey a lot about me. My interest in frontend development has grown as I have attended university. I've been learning front-end   web programming for over two years by developing projects and researching best practices. I've created projects to demonstrate my front-end abilities.
+  My skill set and eagerness to learn reveal a lot about me. As I progressed through education, my interest in frontend development grew. For almost two years, I've been studying front-end web programming by creating projects and researching best practices. I've made projects to show off my front-end skills.
 </p>
 
 <p align="center">
-  During my time at university, I also wrote projects in C/C++, Java (OPP), <br /> Database Design (SQL), and Web Development (Html, Css, Javascript).
+  During my academic years, I also worked on projects in C/C++, Java (OPP), <br /> Database Design (SQL), and Web Development (Html, Css, Javascript).
 </p>
 
 <br />
