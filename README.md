@@ -25,5 +25,9 @@
 <!-- ![SVG](./image/bro-at-work.svg) -->
 ##
 
-- 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JavianTheGreek)](https://github.com/anuraghazra/github-readme-stats)
 
