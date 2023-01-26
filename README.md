@@ -16,7 +16,7 @@
 <p align="center">
   During my academic years, I also worked on projects in C/C++, Java (OPP), <br /> Database Design (SQL), and Web Development (Html, Css, Javascript).
   <br />
-  I'm willing to do a 24 hour project for any intership or any side projects :)
+  I'm willing to do a project for any intership or any open source projects :)
 </p>
 
 <br />
